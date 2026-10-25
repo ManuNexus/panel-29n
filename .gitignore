@@ -1,0 +1,7 @@
+*.png
+*.csv
+*.json
+*.jsonl
+*.db
+.acceso
+panel*.html
